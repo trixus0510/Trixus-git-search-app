@@ -5,7 +5,7 @@ import { AddCategory } from './components/AddCategory';
 
 export const GiftSearchApp = () => {
 
-    const [categories, setCategories] = useState(['One Piece']);
+    const [categories, setCategories] = useState(['Tokyo Revenger']);
 
     return(
         <div>
